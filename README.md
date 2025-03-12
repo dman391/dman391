@@ -2,10 +2,14 @@
 
 This is my repo for STATS 220. 
 
-A little about me:
+# A little about my current semester: #
+* I am undertaking a degree in data science. 
+* I am taking STATS 220 because it is a compulsory course.
+* I am currently taking four subjects (STATS 225, STATS 220, MATH 250, CS 220).
 
-- I am undertaking a degree in data science. 
-- I am taking STATS 220 because it is a compulsory course.
-- I am interested in learning about HTML.
+## My top three favourite foods: ##
+1. **Fried Chicken** *[recipe](https://www.bbcgoodfood.com/recipes/next-level-fried-chicken)*
+2. **BurgerFuel** *[website](https://eat.burgerfuel.com/order)*
+3. **Barbecue Ribs** *[recipe](https://www.allrecipes.com/recipe/22469/barbecue-ribs/)* 
 
-A meme that captures how I currently feel about my university studies is ![](https://c.tenor.com/8druEACXtX8AAAAd/tenor.gif)
+![nyan cat](https://media1.tenor.com/m/jo4_rARyG14AAAAC/cat-nyan-cat.gif)
